@@ -6,11 +6,10 @@ const Steps = () => {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
-            How does it work?
+            My Education
           </h2>
           <p className="max-w-lg mx-auto mt-4 text-base leading-relaxed text-gray-600">
-            Amet minim mollit fan deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis.
+            I have completed my schooling , intermediate and currently pursuing btech.
           </p>
         </div>
 
@@ -29,11 +28,11 @@ const Steps = () => {
                 <span className="text-xl font-semibold text-gray-700"> 1 </span>
               </div>
               <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">
-                Create a free account
+                Class X
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                Gautami High School. <br />                            
+                CGPA : 10
               </p>
             </div>
 
@@ -42,11 +41,11 @@ const Steps = () => {
                 <span className="text-xl font-semibold text-gray-700"> 2 </span>
               </div>
               <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">
-                Build your website
+                Intermediate
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                Alphores Junior College.      <br />         
+                CGPA : 9.82
               </p>
             </div>
 
@@ -55,11 +54,11 @@ const Steps = () => {
                 <span className="text-xl font-semibold text-gray-700"> 3 </span>
               </div>
               <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">
-                Release & Launch
+                B.tech
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                Kakatiya Institute of Technology & Science   <br />                    
+                CGPA : 9.7 (until 3rd sem)
               </p>
             </div>
           </div>

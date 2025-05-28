@@ -81,7 +81,7 @@ export default function Header() {
               src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
               className="h-8 w-auto"
             /> */}
-            Vivek
+            Mamtha
           </a>
         </div>
         <div className="flex lg:hidden">
@@ -151,14 +151,14 @@ export default function Header() {
             </PopoverPanel>
           </Popover>
 
-          <a href="/Vivek" className="text-sm/6 font-semibold text-gray-900">
-            About Me
+          <a href="/Mamatha" className="text-sm/6 font-semibold text-gray-900">
+            My Profile
           </a>
           <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Marketplace
+            Future plans
           </a>
           <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Company
+            Skills
           </a>
         </PopoverGroup>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">

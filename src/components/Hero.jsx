@@ -15,33 +15,28 @@ const Hero = () => {
         <div className="grid grid-cols-12 gap-y-6 lg:gap-x-6 text-center lg:text-start items-center">
           <div className="col-span-12 lg:col-span-6 py-12">
             <h1 className="text-3xl font-bold leading-[1.1] md:text-[62px] mb-2">
-              Software developer, Tech Enthusiast!!
+              Hi!! Iam Mamatha Panday.
             </h1>
             <p className="text-[22px] leading-snug opacity-80 my-6">
-              Our customers pay us every month, which means we pay you every
-              month. Once you refer someone to us, you earn a commission for as
-              long as that person stays a customer.
+                I am P. Mamatha, a B.Tech student from the Computer Science and Engineering department at KITSW.
+                 I enjoy learning new things and working on projects that help me improve my technical skills.
+                 I’m always open to new opportunities where I can gain experience and grow.
             </p>
             <p className="text-[22px] leading-snug opacity-80 mb-6">
-              We'll deposit money straight into your PayPal account. Hassle-free
-              and guaranteed.
+                 Apart from academics, I enjoy sketching and painting.
+                  I believe in learning step by step and giving my best in whatever I do.
+
             </p>
 
-            <div>
-              <a
-                href="#!"
-                className="bg-blue-600 rounded py-3 px-8 hover:bg-opacity-90 duration-300 text-white text-xl inline-flex mt-6 md:mt-12"
-              >
-                Become A Instructor
-              </a>
-            </div>
+            
           </div>
           <div className="col-span-12 lg:col-span-6">
             <div className="relative">
               <Shape />
               <img
-                src="https://cdn.easyfrontend.com/pictures/hero/hero_28.png"
+                src="https://img.freepik.com/free-photo/cute-cartoon-kid-posing-portrait_23-2151870586.jpg?semt=ais_hybrid&w=740"
                 alt=""
+                width="400px"
                 className="relative left-1/2 -translate-x-[55%] img-fluid"
               />
             </div>
